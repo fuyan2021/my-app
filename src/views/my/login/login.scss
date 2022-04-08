@@ -1,0 +1,72 @@
+body{
+  background-color: #e5e5e5;
+}
+.content .login-box {
+    margin: 10px 10px;
+  }
+  .phone-box {
+    width: 96%;
+    height: 61px;
+    padding: 0px 2%;
+  }
+  .phone-box .phone {
+    width: 100%;
+    height: 99.9%;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .phone-box .clean {
+    width: 24px;
+    height: 24px;
+    right: 4%;
+    border-radius: 50%;
+    color: #fe8100;
+    background-color: #e5e5e5;
+  }
+  .prove-box {
+    width: 96%;
+    height: 61px;
+    padding: 0px 2%;
+  }
+  .prove-box .code {
+    height: 100%;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .prove-box .get-code {
+    width: 114px;
+    height: 29px;
+    right: 21px;
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: #fe8100;
+  }
+  .user-control {
+    padding: 17px 0;
+  }
+  .user-control .control-button {
+    width: 117px;
+    height: 35px;
+    font-weight: 600;
+    border: 1px solid #d3d3d3;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+  }
+  .user-control .cancel {
+    color: #000;
+  }
+  .user-control .login {
+    color: #bcbcbc;
+  }
+  .highlight i {
+    color: #fe8100;
+  }
+  .reset-input {
+    background-color: none;
+    outline: none;
+    border: none;
+  }
+  .dev{
+    color: red;
+  }
+  
+  

@@ -1,0 +1,21 @@
+.my-zuji .title {
+    color: #888;
+    height: 42px;
+    background-color: #f0f0f0;
+    font-size: 16px;
+  }
+  .my-zuji .title span:nth-child(1) {
+    padding-left: 3px;
+    border-left: 2px solid #ff8200;
+  }
+  .my-zuji .item {
+    height: 110px;
+    border-bottom: 1px solid #efefef;
+  }
+  .my-zuji .item .t-box {
+    height: 80px;
+  }
+  .my-zuji .item img {
+    height: 80px;
+    width: 120px;
+  }

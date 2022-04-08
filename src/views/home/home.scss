@@ -1,0 +1,105 @@
+.house-index {
+    padding-bottom: 60px;
+  }
+  .house-index li {
+    box-sizing: border-box;
+  }
+  .house-index .fw {
+    flex-wrap: wrap;
+  }
+  .house-index .pl-8 {
+    padding-left: 8px;
+  }
+  .house-index .br-gray {
+    border: 1px solid #ebebeb;
+  }
+  .house-index .h40 {
+    height: 40px;
+  }
+  .house-index header {
+    height: 50px;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  .house-index header img {
+    width: 100px;
+    height: 23px;
+  }
+  .house-index header .search {
+    width: 165px;
+    height: 30px;
+    font-size: 12px;
+    background: #f5f5f5;
+    border-radius: 15px;
+    text-indent: 23px;
+    border: 1px solid #999;
+  }
+  .house-index header .icon-search {
+    font-size: 12px;
+    left: 8px;
+    top: 11px;
+  }
+  .house-index .tuijian img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+  }
+  .house-index .tuijian .item {
+    width: 25vw;
+  }
+  .house-index .hotCity h3 {
+    height: 40px;
+  }
+  .house-index .hotCity .item {
+    height: 40px;
+    width: 25vw;
+    border-top: 1px solid #ebebeb;
+    border-right: 1px solid #ebebeb;
+  }
+  .house-index .hotCity .item:nth-child(4n) {
+    border-right: none;
+  }
+  .house-index .target .item {
+    padding-bottom: 18px;
+  }
+  .house-index .target .item .desc {
+    padding-left: 13px;
+  }
+  .house-index .target .item .price {
+    width: 82px;
+    background: #000;
+    opacity: 0.7;
+    bottom: 0;
+    left: 0;
+  }
+  .house-index .target .item .city {
+    width: 93px;
+    height: 19px;
+    color: #fff;
+    background: #82c8a0;
+    border-radius: 15px;
+  }
+  .nav-box {
+    width: 100%;
+    bottom: 0;
+  }
+  .nav-box .box {
+    margin-top: 5px;
+    cursor: pointer;
+  }
+  .nav-box .box img {
+    width: 20px;
+  }
+  .nav-box .box .text {
+    font-weight: 600;
+    margin-bottom: 3px;
+  }
+  .nav-box .box .icon-jia {
+    color: #fe8100;
+  }
+  .nav-box .box .icon-mudedi,
+  .nav-box .box .icon-wode {
+    font-weight: 600;
+  }
+  
